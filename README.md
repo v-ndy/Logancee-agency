@@ -11,3 +11,10 @@ Evaluation
 ## header--main-title
    creation of different headlines of the site
    creation of different interactive buttons
+
+### Main square
+  creation of square main 
+
+## block one
+   service detail block
+
