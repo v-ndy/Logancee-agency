@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+/**
+ * Reset
+ */
+@import "reset.css";
+
+/**
+ HOME
+ */
+/* #app {
+    margin: 0 auto;
+    background: url("../assets/img/home_agency.jpg") no-repeat;
+    background-size: cover;
+    height: 3100px;
+  }*/
+
+  #app header {
+    background: url("../assets/img/lionBan.png") no-repeat;
+    background-size: cover;
+    height: 610px;
+    opacity: 0.5;
+  }
+
+.header--logo {
+    padding: 29px 0px 0px 44px ;
+}
+
+.header--logo h1 {
+    width: 130px;
+    letter-spacing: 1px;
+    font-family: 'Arial';
+    font-size: 23px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+svg {
+  float: right;
+  padding: 0px 40px 100px 60px;
+  fill: white;
+}
+
+h2{
+    letter-spacing: 3px;
+    font-family: 'Arial';
+    font-size: 11px;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 137px 0px 0px 234px
+}
+.header--main-title {
+    letter-spacing: 5px;
+    font-family: 'Arial';
+    font-size: 39px;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 55px 50px 100px 235px;
+}
+
+.header--main-title p{
+    width: 240px;
+    letter-spacing: 0;
+    font-family: 'Arial';
+    font-size: 10px;
+    color: #ffffff;
+    padding: 15px 0px 0px 0px;
+
+}
+.header--main-title svg{
+padding: 46px 892px 0px 0px;
+}
+
+.prev {
+  font-size: 10px;
+  font-family: 'Arial';
+  color: #ffffff;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  bottom:189px;
+  right: 420px;
+  writing-mode: tb;
+  text-orientation: upright;
+
+
+}
+
+.next{
+  font-size: 10px;
+  font-family: 'Arial';
+  color: #ffffff;
+  float: right;
+  position: relative;
+  bottom: 190px;
+  right: -7px;
+  writing-mode: tb;
+  text-orientation: upright;
+
+
+}
+
+
+
+
+
