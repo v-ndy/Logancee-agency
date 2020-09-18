@@ -8,12 +8,12 @@
 /**
  HOME
  */
-/* #app {
+ #app {
     margin: 0 auto;
-    background: url("../assets/img/home_agency.jpg") no-repeat;
+    background: url("../assets/img/.jpg") no-repeat;
     background-size: cover;
     height: 3100px;
-  }*/
+  }
 
   #app header {
     background: url("../assets/img/lionBan.png") no-repeat;
@@ -23,7 +23,7 @@
   }
 
 .header--logo {
-    padding: 29px 0px 0px 44px ;
+    padding: 38px 0px 0px 50px ;
 }
 
 .header--logo h1 {
@@ -37,48 +37,48 @@
 
 svg {
   float: right;
-  padding: 0px 40px 100px 60px;
+  padding: 0px 55px 100px 30px;
   fill: white;
 }
 
 h2{
     letter-spacing: 3px;
     font-family: 'Arial';
-    font-size: 11px;
+    font-size: 13px;
     color: #ffffff;
     font-weight: bold;
-    padding: 137px 0px 0px 234px
+    padding: 171px 0px 0px 284px
 }
 .header--main-title {
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     font-family: 'Arial';
-    font-size: 39px;
+    font-size: 50px;
     color: #ffffff;
     font-weight: bold;
-    padding: 55px 50px 100px 235px;
+    padding: 61px 63px 150px 280px;
 }
 
 .header--main-title p{
-    width: 240px;
+    width: 299px;
     letter-spacing: 0;
     font-family: 'Arial';
-    font-size: 10px;
+    font-size: 12px;
     color: #ffffff;
-    padding: 15px 0px 0px 0px;
+    padding: 12px 0px 0px 8px;
 
 }
 .header--main-title svg{
-padding: 46px 892px 0px 0px;
+padding: 56px 1070px 0px 0px;
 }
 
 .prev {
-  font-size: 10px;
+  font-size: 70px;
   font-family: 'Arial';
   color: #ffffff;
   padding: 0px 0px 0px 0px;
   position: relative;
-  bottom:189px;
-  right: 420px;
+  bottom:219px;
+  right: 523px;
   writing-mode: tb;
   text-orientation: upright;
 
@@ -86,13 +86,13 @@ padding: 46px 892px 0px 0px;
 }
 
 .next{
-  font-size: 10px;
+  font-size: 70px;
   font-family: 'Arial';
   color: #ffffff;
   float: right;
   position: relative;
-  bottom: 190px;
-  right: -7px;
+  bottom: 225px;
+  right: -13px;
   writing-mode: tb;
   text-orientation: upright;
 
